@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "chokidar": "^1.7.0",
-    "debug": "^2.6.8",
+    "debug": "^3.1.0",
     "es6-promise": "^3.3.1",
     "ignore-by-default": "^1.0.1",
     "lodash.defaults": "^3.1.2",
